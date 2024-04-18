@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A frontend developer</h3>
 
 - 🔭 I’m currently working on **React and React Native Projects**
 
